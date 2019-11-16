@@ -9,7 +9,7 @@ __program untuk menampilkan nilai random yang kurang dari 0,5 sebanyak N kali de
 * inisialisasi a = random.uniform(0,5) (untuk menghasilkan random yang kurang dari 0,5) 
 * di import dari random
 * tampilkan a(nilai random) sebanyak N kali
-* selesai
+* selesaii
 
 **__program__**
 
