@@ -13,10 +13,10 @@ __program untuk menampilkan nilai random yang kurang dari 0,5 sebanyak N kali de
 
 **__program__**
 
-# ![GitHub Logo](t1.png)
+# ![GitHub Logo](input1.jpg)
 **__hasil eksekusi program latihan 1__**
 
-# ![GitHub Logo](ht1.png)
+# ![GitHub Logo](output2.jpg)
 
 # penjelasan program Latihan 2 <h2>
 
@@ -35,11 +35,11 @@ inputan akan berhenti jika memasukan bilangan 0 (Nol)__
 
 **__program__**
 
-# ![GitHub Logo](t2.png)
+# ![GitHub Logo](input2.jpg)
 
 **__hasil eksekusi program latihan 2__**
 
-# ![GitHub Logo](ht2.png)
+# ![GitHub Logo](input2.jpg)
 
 # penjelasan program 1 <h2>
 
@@ -48,9 +48,8 @@ mendapatkan laba sebesar 1% dan pada bulan kelima, pendapatan meningkat 5%, sela
 
 program
 
-# ![GitHub Logo](t3.png)
+# ![GitHub Logo](p1.jpg)
 
 hasil eksekusi program 1
 
-# ![GitHub Logo](ht3.png)
-
+# ![GitHub Logo](p1.jpg)
