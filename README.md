@@ -25,7 +25,7 @@ inputan akan berhenti jika memasukan bilangan 0 (Nol)__
 
 **__algoritma__**
 
-* muali
+* mulai
 * inisialisai list1 (untuk menampung data input)
 * baca a (membaca inputan yang dimasukan )
 * tambahkan inputan ke dalam list (penggunaan append)
